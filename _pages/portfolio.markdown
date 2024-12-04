@@ -30,7 +30,7 @@ figcaption {
 
 # Human Brain Data Science
 2020-2024
-<figure style="width: 700px; margin: 5px;">
+<figure style="width: 800px; margin: 5px;">
     <img src="/assets/images/fMRI/fmri_image_1.png" alt='image 1' />
     <figcaption>The experimental paradigm. 20 pairs of associated stimuli were repeatedly presented on the screen (10 object – fruit associations; 10 object – animal associations).</figcaption>
 </figure>
@@ -56,13 +56,13 @@ Athanasiadis et al., (In preparation). Decoding of non-perceptual properties in 
 
 # Rodent Brain Data Science
 2019-2023
-<figure style="width: 700px; margin: 10px;">
+<figure style="width: 800px; margin: 10px;">
     <img src="/assets/images/rodents/rodents_image_1.png" alt='image 1' />
     <figcaption>Data set: Schematic of the decoding process. Time-binned population vectors were used as input to a linear neural network that is trained to predict
 binary class labels (R: right; L: left) as an output. </figcaption>
 </figure>
 
-<figure style="width: 700px; margin: 5px;">
+<figure style="width: 800px; margin: 5px;">
     <img src="/assets/images//rodents/rodents_image_2.png" alt='image 1' />
     <figcaption> (A) Relevant time bins corresponding to previous experience (B) Population statistics from relevant time bin. Significantly higher firing rates are observed in relevant versus nonrelevant time bins. See our <a href="https://doi.org/10.1002/hipo.23619">paper</a> for more details.</figcaption>
 </figure>
