@@ -83,11 +83,11 @@ Athanasiadis et al., (2024). Low rate hippocampal delay period activity encodes 
 # Classification Most Informative Directions (MIDs)
 2019-2022
 <div class="container">
-    <figure style="width: 500px; margin: 10px;">
+    <figure style="width: 400px; margin: 10px;">
         <img src="/assets/images/mids/mids_image_1.png" alt='image 1' />
         <figcaption> Illustration of the MID identification process. A classifier is trained using a 2-fold cross validation scheme. Adversarial attack methods are employed to move data points close to the decision boundary. MIDs are then identified by clustering (DBSCAN) locally orthogonal vectors (gold). Results are grouped, sorted and evaluated over all cross validation iterations. </figcaption>
     </figure>
-    <figure style="width: 500px; margin: 10px;">
+    <figure style="width: 400px; margin: 10px;">
         <img src="/assets/images/mids/mids_image_2.png" alt='image 2' />
         <figcaption>Examples of identified MIDs for linear (A) and non-linear (B) binary classification tasks. </figcaption>
     </figure>
