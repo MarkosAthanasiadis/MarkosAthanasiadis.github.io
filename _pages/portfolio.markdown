@@ -45,7 +45,7 @@ figcaption {
 We investigated the challenges of applying multivariate pattern classification (MVPC) to whole-brain fMRI data for decoding cognitive brain states. Using adversarial attacks, we analyzed classification boundaries and found consistent BOLD patterns across subjects, even when whole-brain classifiers performed poorly. Results suggest low decoding success reflects signal noise accumulation rather than inter-subject variability, highlighting the potential of MVPC for understanding cognitive states at the single-subject level. 
 
 **Methods**:
-Deep Learning (PyTorch), Numerical Simulation (NumPy), Adversarial Attacks, Classical Machine Learning, fMRI.
+Deep Learning (PyTorch), Numerical Simulation (NumPy), Adversarial Attacks (FoolBox), Classical Machine Learning, SciPy, Scikit-learn,fMRI.
 
 **Publication**: 
 Athanasiadis et al., (In preparation). Decoding of non-perceptual properties in functional magnetic resonance imaging data.
@@ -71,7 +71,7 @@ binary class labels (R: right; L: left) as an output. </figcaption>
 We explored hippocampal mechanisms supporting short-term memory using a classifier-based decoding approach. By analyzing the brain data of rodents recorded by microelectrodes, we were able to identify sparse, low-rate neural activity predictive of prior sensory-motor experiences, across working and non-working memory tasks, and dependent on sensory-motor context familiarity. We published our results in the peer-reviewed journal *Hippocampus*.
 
 **Methods**: 
-Statistics, Regression Analysis, Hypothesis Testing, Linear and Non-Linear Classifiers, Adversarial Attacks, Electrophysiology.
+Statistics, Regression Analysis, Hypothesis Testing, Linear and Non-Linear Classifiers, Adversarial Attacks (FoolBox), SciPy, Scikit-learn, Electrophysiology.
 
 **Publication**: 
 Athanasiadis et al., (2024). Low rate hippocampal delay period activity encodes behavioral experience. Hippocampus, 34(8), 422-437. <https://doi.org/10.1002/hipo.23619>
@@ -97,7 +97,7 @@ Athanasiadis et al., (2024). Low rate hippocampal delay period activity encodes 
 
 I developed a framework  that takes advantage of adversarial attacks in order to probe and visuallise decision boundaries in a computationally efficient manner. The framework is capable of identifying the most informative directions (MIDs) for linear and non-linear classifiers in terms of weight vectors orthogonal to the decision hyperplane. Furthermore, the MIDs can be used as a denoising mechanism when applied directly on the input data, in order to sort out the input patterns responsible for the formation of the decision hypreplane (RPs).  
 
-**Methods**: Deep /Machine Learning (PyTorch), Computer Vision, Adversarial Attacks, Clustering, Data Processing, Data Augmentation
+**Methods**: Deep / Machine Learning (PyTorch), Computer Vision, Adversarial Attacks (FoolBox), Clustering, Data Processing, Data Augmentation, SciPy, Scikit-learn
 
 **Publication**: 
 Athanasiadis et al., (2024). Low rate hippocampal delay period activity encodes behavioral experience. Hippocampus, 34(8), 422-437. <https://doi.org/10.1002/hipo.23619>
@@ -119,7 +119,7 @@ CCR of the real labels (pink line) against a Null distribution of randomly permu
 
 **Summary**: The Significance Testing Framework is a Python-based tool designed for permutation testing on datasets. It provides functionality to assess the statistical significance of machine learning models' performance by comparing against shuffled label baselines.
 
-**Methods**: Deep Learning (PyTorch), Data Augmentation, Synthetic Data Generation, Data Processing.
+**Methods**: Deep Learning (PyTorch), Data Augmentation, Synthetic Data Generation, Data Processing, SciPy, Scikit-learn.
 
 **Publication**: 
 Athanasiadis et al., (2024). Low rate hippocampal delay period activity encodes behavioral experience. Hippocampus, 34(8), 422-437. <https://doi.org/10.1002/hipo.23619>
