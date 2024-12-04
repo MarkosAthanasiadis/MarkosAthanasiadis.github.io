@@ -30,16 +30,16 @@ figcaption {
 
 # Human Brain Data Science
 2020-2024
-<div class="container">
-    <figure style="width: 350px; margin: 10px;">
-        <img src="/assets/images/fMRI/fmri_image_1.png" alt='image 1' />
-        <figcaption>The experimental paradigm. 20 pairs of associated stimuli were repeatedly presented on the screen (10 object – fruit associations; 10 object – animal associations).</figcaption>
-    </figure>
-    <figure style="width: 450px; margin: 10px;">
-        <img src="/assets/images/fMRI/fmri_image_2.gif" alt='image 2' />
-        <figcaption> Informative brain ROIs across the brain. </figcaption>
-    </figure>
-</div>
+<figure style="width: 600px; margin: 5px;">
+    <img src="/assets/images/fMRI/fmri_image_1.png" alt='image 1' />
+    <figcaption>The experimental paradigm. 20 pairs of associated stimuli were repeatedly presented on the screen (10 object – fruit associations; 10 object – animal associations).</figcaption>
+</figure>
+
+<figure style="width: 250px; margin: 5px;">
+    <img src="/assets/images/fMRI/fmri_image_2.gif" alt='image 2' />
+    <figcaption> Informative brain ROIs across the brain. </figcaption>
+</figure>
+
 
 **Summary**:
 We investigated the challenges of applying multivariate pattern classification (MVPC) to whole-brain fMRI data for decoding cognitive brain states. Using adversarial attacks, we analyzed classification boundaries and found consistent BOLD patterns across subjects, even when whole-brain classifiers performed poorly. Results suggest low decoding success reflects signal noise accumulation rather than inter-subject variability, highlighting the potential of MVPC for understanding cognitive states at the single-subject level. 
