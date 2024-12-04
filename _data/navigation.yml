@@ -1,0 +1,21 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
+
+
+docs:
+  - title: Portfolio
+    children:
+      - title: "1. Human Brain Data Science #1"
+        url: /portfolio/#human-fMRI
+      - title: "2. Rodent Brain Data Science"
+        url: /portfolio/#rodents-electrophysiology
+      - title: "3. Classification Most Informative Directions (MIDs)"
+        url: /portfolio/#adversarial-decoder
+      - title: "4. Permutation Test"
+        url: /portfolio/#permutation-test
