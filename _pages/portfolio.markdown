@@ -32,7 +32,7 @@ figcaption {
 2020-2024
 <div class="container">
     <figure style="width: 350px; margin: 10px;">
-        <img src="/assets/images/fMRI/fmri_image_1" alt='image 1' />
+        <img src="/assets/images/fMRI/fmri_image_1.png" alt='image 1' />
         <figcaption>The experimental paradigm. 20 pairs of associated stimuli were repeatedly presented on the screen (10 object – fruit associations; 10 object – animal associations).</figcaption>
     </figure>
     <figure style="width: 450px; margin: 10px;">
@@ -57,13 +57,13 @@ Athanasiadis et al., (In preparation). Decoding of non-perceptual properties in 
 # Rodent Brain Data Science
 2019-2023
 <figure style="width: 600px; margin: 10px;">
-    <img src="/assets/images/rodents/rodents_image_1" alt='image 1' />
+    <img src="/assets/images/rodents/rodents_image_1.png" alt='image 1' />
     <figcaption>Data set: Schematic of the decoding process. Time-binned population vectors were used as input to a linear neural network that is trained to predict
 binary class labels (R: right; L: left) as an output. </figcaption>
 </figure>
 
 <figure style="width: 600px; margin: 5px;">
-    <img src="/assets/images//rodents/rodents_image_2" alt='image 1' />
+    <img src="/assets/images//rodents/rodents_image_2.png" alt='image 1' />
     <figcaption> (A) Relevant time bins corresponding to previous experience (B) Population statistics from relevant time bin. Significantly higher firing rates are observed in relevant versus nonrelevant time bins. See our <a href="https://doi.org/10.1002/hipo.23619">paper</a> for more details.</figcaption>
 </figure>
 
@@ -84,11 +84,11 @@ Athanasiadis et al., (2024). Low rate hippocampal delay period activity encodes 
 2019-2022
 <div class="container">
     <figure style="width: 400px; margin: 10px;">
-        <img src="/assets/images/mids/mids_image_1.eps" alt='image 1' />
+        <img src="/assets/images/mids/mids_image_1.png" alt='image 1' />
         <figcaption> Illustration of the MID identification process. A classifier is trained using a 2-fold cross validation scheme. Adversarial attack methods are employed to move data points close to the decision boundary. MIDs are then identified by clustering (DBSCAN) locally orthogonal vectors (gold). Results are grouped, sorted and evaluated over all cross validation iterations. </figcaption>
     </figure>
     <figure style="width: 400px; margin: 10px;">
-        <img src="/assets/images/mids/mids_image_2.eps" alt='image 2' />
+        <img src="/assets/images/mids/mids_image_2.png" alt='image 2' />
         <figcaption>Examples of identified MIDs for linear (A) and non-linear (B) binary classification tasks. </figcaption>
     </figure>
 </div>
