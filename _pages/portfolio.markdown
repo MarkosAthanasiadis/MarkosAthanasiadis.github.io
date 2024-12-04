@@ -111,7 +111,7 @@ Athanasiadis et al., (2024). Low rate hippocampal delay period activity encodes 
 
 # Permutation Test
 2019-2020
-<figure style="width: 500px; margin: 10px; text-align: center;">
+<figure style="width: 300px; margin: 10px; text-align: center;">
     <img src="/assets/images/perms/perm_image_1.png" alt='image 1' />
     <figcaption>P-value designation by comparing the
 CCR of the real labels (pink line) against a Null distribution of randomly permuted labels (black curve).</figcaption>
