@@ -84,11 +84,11 @@ Athanasiadis et al., (2024). Low rate hippocampal delay period activity encodes 
 2019-2022
 <div class="container">
     <figure style="width: 400px; margin: 10px;">
-        <img src="/assets/images/mids/mids_image_1" alt='image 1' />
+        <img src="/assets/images/mids/mids_image_1.eps" alt='image 1' />
         <figcaption> Illustration of the MID identification process. A classifier is trained using a 2-fold cross validation scheme. Adversarial attack methods are employed to move data points close to the decision boundary. MIDs are then identified by clustering (DBSCAN) locally orthogonal vectors (gold). Results are grouped, sorted and evaluated over all cross validation iterations. </figcaption>
     </figure>
     <figure style="width: 400px; margin: 10px;">
-        <img src="/assets/images/mids/mids_image_2" alt='image 2' />
+        <img src="/assets/images/mids/mids_image_2.eps" alt='image 2' />
         <figcaption>Examples of identified MIDs for linear (A) and non-linear (B) binary classification tasks. </figcaption>
     </figure>
 </div>
@@ -112,7 +112,7 @@ Athanasiadis et al., (2024). Low rate hippocampal delay period activity encodes 
 # Permutation Test
 2019-2020
 <figure style="width: 500px; margin: 10px; text-align: center;">
-    <img src="/assets/images/perm/perm_image_1.png" alt='image 1' />
+    <img src="/assets/images/perms/perm_image_1.png" alt='image 1' />
     <figcaption>P-value designation by comparing the
 CCR of the real labels (pink line) against a Null distribution of randomly permuted labels (black curve).</figcaption>
 </figure>
