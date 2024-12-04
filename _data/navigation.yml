@@ -11,7 +11,7 @@ main:
 docs:
   - title: Portfolio
     children:
-      - title: "1. Human Brain Data Science #1"
+      - title: "1. Human Brain Data Science"
         url: /portfolio/#human-fMRI
       - title: "2. Rodent Brain Data Science"
         url: /portfolio/#rodents-electrophysiology
