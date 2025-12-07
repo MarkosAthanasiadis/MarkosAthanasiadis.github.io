@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Published Work"
+    url: /published-work/
 
 
 docs:
