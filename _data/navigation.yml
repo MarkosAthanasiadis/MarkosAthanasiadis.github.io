@@ -8,7 +8,8 @@ main:
     url: /portfolio/
   - title: "Published Work"
     url: /published-work/
-
+  - title: "Github Contibutions"
+    url: /github/
 
 docs:
   - title: Portfolio
