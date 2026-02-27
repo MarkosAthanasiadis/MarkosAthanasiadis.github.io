@@ -30,7 +30,7 @@ figcaption {
 
 # Bitbucket Commit Callendar
 May 2025- Feb 2026
-<figure style="width: 800px; margin: 5px;">
+<figure style="width: 900px; margin: 5px;">
     <img src="/assets/images/contribution_calendar.svg" alt='image 1' />
 </figure>
 
